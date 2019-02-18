@@ -29,8 +29,6 @@ Classes:
   - Formative
   - Summative
   - Reports
-  
-In Progress:
-  - Question - Kai
-  
-Completed:
+- In Progress:
+  - Question - Kai 
+- Completed:
